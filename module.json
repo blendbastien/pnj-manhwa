@@ -1,12 +1,23 @@
 {
   "id": "pnj-manhwa",
-  "title": "PNJ Manhwa — Groupes & Scène",
-  "description": "Groupes de PNJ (acteurs Foundry) triés par nom, groupe ou étiquette, affichés à l'écran en barre de portraits avec orateurs mis en avant, noms et portraits révélables, plusieurs directions artistiques (ORV néon, Eos médiéval, Clockwork, Nova, sobre).",
-  "version": "1.0.0",
-  "authors": [{ "name": "Bastien" }],
-  "compatibility": { "minimum": "12", "verified": "13" },
-  "esmodules": ["scripts/main.js"],
-  "styles": ["styles/pnj-manhwa.css"],
+  "title": "Portrait - Manhwa",
+  "description": "Portraits à l'écran (acteurs Foundry) en panneaux néon : groupes par Groupe MJ, sous-groupes sans limite que l'on fait défiler à la molette (MJ et joueurs), catégories avec icônes, police par groupe, orateurs bien visibles, noms et portraits révélables, mises en scène enregistrées, paramètres rangés par catégorie.",
+  "version": "3.4.2",
+  "authors": [
+    {
+      "name": "Bastien"
+    }
+  ],
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "esmodules": [
+    "scripts/main.js"
+  ],
+  "styles": [
+    "styles/pnj-manhwa.css"
+  ],
   "socket": true,
   "languages": [],
   "url": "https://github.com/blendbastien/pnj-manhwa",
